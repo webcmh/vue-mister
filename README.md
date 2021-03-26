@@ -1,4 +1,24 @@
-# Vue-mister
-hello，这是一款非常轻便的后台管理系统，我非常乐意将这款产品定位为完全开源项目，以供开源界的友友们共同学习，作者的初衷是为了更好的总结/提高web前端开发技术点，便捷开发从此刻开始！
+# vue-mister
 
-项目起始于2021年3月22日晚，请持续关注开发进展~
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
